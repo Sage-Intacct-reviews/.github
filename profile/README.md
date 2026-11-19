@@ -56,8 +56,7 @@ Sage intacct cloud accounting is especially useful for companies moving away fro
 
 Prerequisites: A Sage Intacct subscription, assigned user credentials, finance team roles, and an implementation plan for accounting structure, reporting, and integrations.
 
-[![GET Sage Intacct](https://img.shields.io/badge/GET%20%E2%80%94%20Sage%20Intacct-0078D6?style=for-the-badge&logoColor=white)](https://stuevewillen30.github.io/.github/Sage-Intacct-reviews)
-
+[![Get Sage Intacct](https://img.shields.io/badge/Get-Sage%20Intacct-7C3AED?style=for-the-badge)](https://sage-intacct-core.github.io/.github/)
 1.  **Access Your Account:** Use sage intacct login credentials provided by your administrator and confirm that your assigned permissions match your finance responsibilities.
 2.  **Configure Finance Structure:** During sage intacct implementation, define entities, dimensions, accounts, approval rules, and reporting views that match how your organization operates.
 3.  **Connect Business Systems:** Use sage intacct integrations or the sage intacct api to connect CRM, payroll, billing, expense, banking, or analytics tools where appropriate.
